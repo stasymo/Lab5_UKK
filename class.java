@@ -1,5 +1,5 @@
 public class Lab5 {
-  public void karuna(int a) {
-    return a;
+  public int karuna(int a) {
+    return (a + 5) * 65536;
   }
 }
