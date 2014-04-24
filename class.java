@@ -1,6 +1,6 @@
 public class Lab5 {
-  public int karuna(int a) {
-	//its new changes in this method
-    return (a + 5) * 65536;
-  }
+     public int Ksu(int b) {
+
+return b+9;
+    }
 }

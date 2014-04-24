@@ -1,5 +1,5 @@
-public class newMasterClass{
-  public int karunaMaster(int a) {
-    return (a + 5) * 65536;
-  }
+public class newMasterClass {
+      pblic String Ksu;
+
+
 }
