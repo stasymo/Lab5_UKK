@@ -3,4 +3,7 @@ public class Lab5 {
 
 return b+9;
     }
+	public void newMethodKaruna(Obj 1, Obj 2) {
+	return Obj1.proto + Obj2.text;	
+}
 }
