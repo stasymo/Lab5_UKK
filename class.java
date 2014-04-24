@@ -1,6 +1,6 @@
 public class Lab5 {
      public int Ksu(int b) {
 
-return b+8;
+return b+9;
     }
 }
