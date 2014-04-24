@@ -1,5 +1,6 @@
 public class Lab5 {
-     public void Ksu(int b) {
-return b;
+     public int Ksu(int b) {
+
+return b+8;
     }
 }
